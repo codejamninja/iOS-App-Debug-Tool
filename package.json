@@ -6,7 +6,7 @@
     "fibers": "^4.0.0",
     "fs": "0.0.1-security",
     "ios-deploy": "^1.9.4",
-    "multithread-config": "^0.3.0",
+    "multithread-config": "0.3.0",
     "node-ios-device": "^1.6.3",
     "nodegit": "^0.24.2",
     "npm": "^6.9.0",
